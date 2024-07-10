@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
+
+/* Le sélecteur universel */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+/* Selecteurs d'éléments HTML */
+
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+    color: brown;
+    text-align: center;
+    font-family: "Ga Maamli";
+}
+
+body {
+    color: blueviolet;
+}
+
+p {
+    color: inherit;
+}
